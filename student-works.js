@@ -48,7 +48,7 @@ const works = [
         "name": "David Noh",
         "title": "Jazz Hands",
         "description": "a gestural instrument",
-        "long-description": "This paper explores the different roles that the state plays in capitalist",
+        "long-description": "Jazz Hands is a musical instrument that allows the user to play dozens of chords using hand gestures with the ml5 library.",
         "keywords": ["sound", "p5js", "tool"],
         "link": "https://davidnfilms.github.io/Web-Dev-Final-Project/",
         "github-url": "https://github.com/DavidNFilms/Web-Dev-Final-Project",
